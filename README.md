@@ -20,10 +20,6 @@ Library used:
 Sample output:
     Task-1
     ![encryption_decryption](https://github.com/user-attachments/assets/f71ee8da-1455-4e18-8b26-c520adb410cb)
-
-        
-         ![encryption_decryption](https://github.com/user-attachments/assets/0b1671d4-f300-412f-afdb-749e525f1ce2)
-
-Task-2
- ![Hshing](https://github.com/user-attachments/assets/918b77d0-f195-4031-8bbf-21374365d0c8)
+     Task-2
+    ![Hshing](https://github.com/user-attachments/assets/918b77d0-f195-4031-8bbf-21374365d0c8)
 
