@@ -16,3 +16,11 @@ Library used:
         Crypto.Util.Padding (pad, unpad)
     Task-2
         bcrypt (library)
+
+Sample output:
+    Task-1
+    ![encryption_decryption](https://github.com/user-attachments/assets/f71ee8da-1455-4e18-8b26-c520adb410cb)
+
+        
+         ![encryption_decryption](https://github.com/user-attachments/assets/0b1671d4-f300-412f-afdb-749e525f1ce2)
+
